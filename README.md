@@ -43,4 +43,4 @@ I walked through my code numerous times and I was unable to get the screen to se
 
 ### Notes
 
-I was unable to get the Terminal App to open, ehich didnt allow for the poster images to be viewed
+I was unable to get the Terminal App to open, which didnt allow for the poster images to be viewed
